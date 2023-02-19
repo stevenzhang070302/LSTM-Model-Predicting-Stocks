@@ -12,7 +12,7 @@ The Stock_Price_Prediction.ipynb notebook contains the code and outputs for usin
 The black-scholes.ipynb notebook contains the code and outputs for a simple implementation of the Mathematical Model Black Scholes. More implementation testing will be needed to use the Black Scholes Model on stock prediction. (Work in progress)
 
 # Project Outcome
-Below we can see some sample predictions of what our model would have predicted for a year based on AAPL's past 50 day stock price for each given day. 
+Below we can see some sample predictions of what our model would have predicted for AAPL's stock price for a year based on the past 50 days of stock price. 
 
 ![LSTM Model Prediction Graph](https://github.com/stevenzhang070302/LSTM-Model-Predicting-Stocks/blob/main/LSTM_Pred_1.png)
 

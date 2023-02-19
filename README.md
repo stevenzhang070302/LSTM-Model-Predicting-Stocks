@@ -1,5 +1,4 @@
 # LSTM Neural Network to perform Time Series Analysis to predict the next day Stock Price
-Using a Recurrent Neural Network(Long Short Term Memory) and Time Series to model the Stock price of Apple over a given period of time
 
 Author: Steven Zhang, Georgia Institute of Technology
 
